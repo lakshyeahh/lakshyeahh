@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshyeahh" alt="lakshyeahh" /></a> </p>
 
-- 🔭 I’m currently working on [Green](https://final-green-app.vercel.app/)
+- 🔭 I’m currently working on bagging a good SDE internship
 
 - 📝 I regularly write articles on [https://medium.com/@verma.lakshya071](https://medium.com/@verma.lakshya071)
 
