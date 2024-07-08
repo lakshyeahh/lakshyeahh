@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **verma.lakshya071@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lfwpGKnZnAbzgYw4KkTNjQP2S-TzacMZ/view](https://drive.google.com/file/d/1lfwpGKnZnAbzgYw4KkTNjQP2S-TzacMZ/view)
-
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
