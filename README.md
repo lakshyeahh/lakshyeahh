@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshya</h1>
 <h3 align="center">A passionate & coffee driven developer</h3>
-<h3 align="center"> --> https://lakshya-verma.vercel.app/ <--</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshyeahh&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyeahh" /> </p>
 
