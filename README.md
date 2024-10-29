@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshyeahh&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyeahh" /> </p>
 
+[![@lakshyeahh's Holopin board](https://holopin.me/lakshyeahh)](https://holopin.io/@lakshyeahh)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshyeahh&theme=juicyfresh" alt="lakshyeahh" /></a> </p>
 
 - 🔭 I’m currently resolving merge conflicts
