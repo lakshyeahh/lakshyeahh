@@ -7,7 +7,7 @@ Welcome to my **GitHub** profile!<br><br>👋 Hi there! I'm **Lakshya Verma**, a
 
 [![@lakshyeahh's Holopin board](https://holopin.me/lakshyeahh)](https://holopin.io/@lakshyeahh)
 
-![image](https://github.com/user-attachments/assets/eb116977-0fd4-4c6b-a791-0bf669f4ae6a)
+![lakshyeahh](https://github.com/user-attachments/assets/80428a10-d69f-4064-ba47-0a2925e858ec)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 [![](https://visitcount.itsvg.in/api?id=lakshyeahh&icon=0&color=1)](https://visitcount.itsvg.in)
