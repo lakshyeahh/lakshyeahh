@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshyeahh&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyeahh" /> </p>
 ## 💫 About Me:
 <img align ="right" alt="Coding"  width="320"  src="https://cdn.dribbble.com/users/4708248/screenshots/14864517/media/b062fc11710dae270fd4d914a6ff3f60.gif">
 
@@ -92,10 +93,5 @@ Welcome to my **GitHub** profile!<br><br>👋 Hi there! I'm **Lakshya Verma**, a
   <img src="https://profile-counter.glitch.me/lakshyeahh/count.svg?"  />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshyeahh&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyeahh" /> </p>
-[![Lakshya's GitHub | Stats](https://stats.quine.sh/lakshyeahh/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=lakshyeahh)
 
-[![Lakshya's GitHub | Languages Over Time](https://stats.quine.sh/lakshyeahh/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=lakshyeahh)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
